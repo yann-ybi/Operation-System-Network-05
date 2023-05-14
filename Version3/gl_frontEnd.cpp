@@ -1,7 +1,6 @@
 //
 //  gl_frontEnd.cpp
 //
-//  Created by Jean-Yves Hervé on 2023-03-24.
 //
 
 #include <cstring>
